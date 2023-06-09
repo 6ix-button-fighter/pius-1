@@ -1,0 +1,13 @@
+{
+    "authors": [
+        {
+            "name": "Nikita Efimov",
+            "email": "sokol192192@mail.ru"
+        }
+    ],
+    "require": {
+        "symfony/validator": "^6.2",
+        "symfony/finder": "^6.2",
+        "monolog/monolog": "^3.3"
+    }
+}
